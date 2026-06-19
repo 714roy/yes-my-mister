@@ -1,3 +1,12 @@
+---
+type: overview
+title: Yes My Mister 🎩
+description: British Civil Service Pipeline for Multi-Agent Systems. When you want nothing to get done, properly.
+tags: [parody, bureaucracy, satire, hs2, yes-minister]
+timestamp: 2026-06-19
+resource: https://github.com/714roy/yes-my-mister
+---
+
 # Yes My Mister 🎩
 
 > **The British Civil Service Pipeline for Multi-Agent Systems**  
