@@ -4,7 +4,7 @@ title: Yes My Mister · Design Specification
 description: Complete design spec for the British Civil Service Pipeline — 11-step process, 6 departments, document generation standards, inter-departmental blame protocol
 tags: [parody, design, bureaucracy, document-generation, blame-protocol]
 timestamp: 2026-06-19
-resource: https://github.com/714roy/yes-my-mister
+resource: https://github.com/reoroy/yes-my-mister
 ---
 
 # Yes My Mister · Design Specification

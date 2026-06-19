@@ -4,7 +4,7 @@ title: Yes My Mister 🎩
 description: British Civil Service Pipeline for Multi-Agent Systems. When you want nothing to get done, properly.
 tags: [parody, bureaucracy, satire, hs2, yes-minister]
 timestamp: 2026-06-19
-resource: https://github.com/714roy/yes-my-mister
+resource: https://github.com/reoroy/yes-my-mister
 ---
 
 # Yes My Mister 🎩
@@ -168,4 +168,4 @@ Crown Copyright 2026. All Rights Reserved.
 - **[FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)** (23.6k⭐) — The gold standard of enterprise satire. Different target (Java over-engineering vs bureaucracy), same spirit.
 - **[standup-as-a-service](https://github.com/marvinrichter/standup-as-a-service)** (1.2k⭐) — Enterprise-grade daily standup generation. No manual input required. No actual thinking needed.
 - **[ProcrastiN8](https://github.com/veggerby/ProcrastiN8)** (1.3k⭐) — Enterprise-grade task management that embraces your natural procrastination.
-- **[Evolutionary-Teal Organization (ETO)](https://github.com/714roy/evolutionary-teal-organization)** — The efficient counterpart. What happens when you actually want things done. Formerly 三省六部.
+- **[Evolutionary-Teal Organization (ETO)](https://github.com/reoroy/evolutionary-teal-organization)** — The efficient counterpart. What happens when you actually want things done. Formerly 三省六部.
