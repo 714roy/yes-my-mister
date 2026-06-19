@@ -1,0 +1,32 @@
+{
+  "name": "@yes-my-mister/pi-coding-agent",
+  "version": "0.0.1",
+  "description": "Yes My Mister — The British Civil Service Pipeline for AI Agents. When you want nothing to get done, properly.",
+  "license": "MIT",
+  "type": "module",
+  "bin": {
+    "ymm": "dist/index.js",
+    "yes-my-mister": "dist/index.js"
+  },
+  "files": ["dist"],
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/index.ts",
+    "ymm": "tsx src/index.ts",
+    "test": "echo 'Tests? We have a committee for that. Next quarter.'"
+  },
+  "dependencies": {
+    "commander": "^13.0.0",
+    "chalk": "^5.4.1",
+    "pi-ai": "^0.x",
+    "pi-agent-core": "^0.x"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "tsx": "^4.19.0",
+    "@types/node": "^22.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
