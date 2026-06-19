@@ -151,3 +151,12 @@ yesmymister -task "Write a one-page summary"
 Crown Copyright 2026. All Rights Reserved.
 
 *This project is a parody. Please don't use it for real tasks — unless you're actually building HS2.*
+
+---
+
+### 🎭 See Also
+
+- **[FizzBuzzEnterpriseEdition](https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition)** (23.6k⭐) — The gold standard of enterprise satire. Different target (Java over-engineering vs bureaucracy), same spirit.
+- **[standup-as-a-service](https://github.com/marvinrichter/standup-as-a-service)** (1.2k⭐) — Enterprise-grade daily standup generation. No manual input required. No actual thinking needed.
+- **[ProcrastiN8](https://github.com/veggerby/ProcrastiN8)** (1.3k⭐) — Enterprise-grade task management that embraces your natural procrastination.
+- **[三省六部 · Sansheng-Liubu](https://github.com/714roy/sansheng-liubu)** — The efficient counterpart. What happens when you actually want things done.
