@@ -180,7 +180,154 @@ Quality is ensured through a rigorous multi-step process:
 
 ---
 
-## 5. Known Issues
+## 5. Document Generation Standards 📜
+
+> *"Minister, if I may be perfectly frank — which of course I never am — the document in question has been carefully crafted to provide the maximum amount of information with the minimum possible meaning."*
+> — Sir Humphrey Appleby, probably
+
+### 5.1 The Humphrey Style Guide
+
+Every document produced by YMM must adhere to the following linguistic principles:
+
+| Principle | Rule | Example |
+|:----------|:------|:--------|
+| **Passive Voice** | Never say who did something | "It has been determined that..." |
+| **Nominalisation** | Turn verbs into nouns | "We effected the implementation of" not "we implemented" |
+| **Qualification** | Undo every statement immediately | "Subject to the usual caveats, and with the proviso that further analysis may reveal alternative interpretations..." |
+| **Latin Insertion** | Use Latin when you have nothing to say | "This decision is, *de facto*, subject to a *caveat* regarding *pro bono* publico considerations" |
+| **Pseudo-Precision** | Make numbers sound exact but meaningless | "A preliminary estimate suggests approximately 3.7 key factors" |
+| **Bury the Lead** | Put the real message between paragraphs 12-14 of a 200-page document | — |
+| **Recommend Inaction** | Every recommendation should recommend more study | "It would be premature to proceed without a comprehensive review" |
+| **Specious Symmetry** | Balance every point with its opposite | "While there are arguments for proceeding, there are equally compelling arguments for not doing so" |
+
+### 5.2 Mandatory Document Templates
+
+#### 📄 Step 1 Document: Project Initiation Document (PID)
+
+> **Length**: Minimum 500 pages
+> **Content-to-meaning ratio**: 0.003%
+> **Sample extract:**
+
+*"It is respectfully submitted that the aforementioned project, having been the subject of preliminary inter-departmental consultation at the under-secretary level, gives rise to a number of considerations of a non-trivial nature which, in the considered view of this office, would merit further elucidation before any definitive course of action can be determined with the requisite degree of confidence that His Majesty's Government — and indeed the taxpayer — has every right to expect from those entrusted with the stewardship of public resources."*
+
+**Translation**: "We haven't decided yet."
+
+#### 📄 Step 3 Document: Public Consultation Summary
+
+> **Length**: 800 pages
+> **Sample extract:**
+
+*"A total of 47,382 submissions were received from members of the public, representing a diverse cross-section of opinion across the geographical catchment area. Of these, 23,719 expressed qualified support, 21,401 expressed conditional opposition, and 2,262 expressed no view either way. It should be noted that many respondents who expressed support did so with reservations, while conversely a significant proportion of those expressing opposition indicated a willingness to reconsider their position subject to certain modifications. On balance, therefore, the consultation may be regarded as inconclusive, and further targeted engagement is recommended before any definitive conclusions can be drawn regarding the prevailing public sentiment."*
+
+**Translation**: "We spent £12M on a consultation and still have no idea what people want."
+
+#### 📄 Step 4 Document: Budget Review Report
+
+> **Length**: 600 pages
+> **Sample extract:**
+
+*"An examination of the financial projections reveals that the originally anticipated expenditure profile — which, it must be stated with the benefit of hindsight, was prepared under assumptions that may be characterised as optimistic — has diverged from the actual cost trajectory to a degree that necessitates a recalibration of the fiscal parameters within which the project is expected to operate. The variance, quantified at the present juncture at a factor of approximately 4.7 times the baseline, should not, however, be interpreted as indicative of fundamental flaws in the project's conception, but rather as reflective of the inherent uncertainty in estimating large-scale infrastructure initiatives of this nature, a phenomenon well-documented in the academic literature and indeed acknowledged by the National Audit Office in its previous reports on comparable undertakings."*
+
+**Translation**: "We're 5x over budget. No idea why. Same as every other project."
+
+#### 📄 Step 7 Document: Project Handover Note
+
+> **Length**: 2 pages (buried in a 400-page appendix)
+> **Sample extract:**
+
+*"It is the view of the Delivery Directorate that certain implementation challenges — which were, in fairness, flagged at the outset by this department in memorandum YMM-2026-0847/Rev.3, para 14.2(b), and which were not, regrettably, acted upon by the responsible authorities—have now materialised in a manner that renders the originally envisaged timeline, if not entirely unachievable, then certainly in need of fundamental reassessment."*
+
+**Translation**: "We told you so. Not our problem now."
+
+### 5.3 Document Routing Protocol
+
+Every document must circulate through the following departments in sequence, each adding their own layer of obfuscation:
+
+```
+Draft → 
+  🫖 Tea & Delay (adds 3 paragraphs on timeliness) →
+  📋 Permanent Consultation (adds 7 paragraphs on further research needed) →
+  💷 Treasury Escalation (adds budget caveats) →
+  ⚖️ Legal Entanglement (adds 50 pages of disclaimers) →
+  📰 Strategic Communication (adds 2 pages of spin) →
+  🗄️ Archive of Oblivion (files it)
+
+Total time: 6-18 months
+Total pages added: 200-600
+Net information added: 0
+```
+
+---
+
+## 6. Inter-Departmental Blame Protocol 🏓
+
+> *"Minister, I think it's only fair to point out that the original advice — which my department did provide, in writing, at the appropriate juncture — was, if I may say so, somewhat overtaken by events, though I wouldn't wish to imply that any other department was at fault, as that would be quite improper."*
+
+### 6.1 The Blame Escalation Matrix
+
+| Situation | Tea & Delay says | Consultation says | Treasury says | Legal says | Comms says |
+|:----------|:-----------------|:------------------|:--------------|:-----------|:-----------|
+| **Project delayed** | "We were awaiting input from Consultation" | "We were awaiting data from Treasury" | "Legal hadn't cleared the budget" | "Comms advised against proceeding" | "The timeline was always indicative" |
+| **Budget overrun** | "We weren't informed of the true cost" | "Our report recommended further cost analysis" | "The original estimate came from outside" | "We flagged this risk in Appendix 3" | "Market conditions changed unexpectedly" |
+| **Quality failure** | "Specifications were unclear" | "We recommended more detailed specs" | "Quality costs were cut in the value engineering" | "Not within our remit to assess" | "The public perceive it differently" |
+| **Legal challenge** | "We were not consulted on the decision" | "We recommended public inquiry" | "Legal costs were underestimated" | "We did advise against this approach" | "We're managing the narrative effectively" |
+| **Public backlash** | "Comms didn't brief us" | "The public weren't properly consulted" | "It's a perception issue, not a cost issue" | "Legally we're on solid ground" | "We weren't given the facts in time" |
+
+### 6.2 Sample Correspondence
+
+**MEMORANDUM**  
+**FROM**: Tea & Delay Directorate  
+**TO**: Permanent Consultation Division  
+**SUBJECT**: Delays in publishing the consultation summary  
+**CLASSIFICATION**: Official — Sensitive — Commercial in Confidence
+
+*"Further to your memorandum of the 14th instant, I am writing to express this Directorate's concern that the summary of the Phase II public consultation — which, as you will recall, my department undertook to collate only on the understanding that your Division would provide the analytical framework by no later than the 8th — has not, as yet, been received by this office.*
+
+*While we fully appreciate the complexity of the task, it must be pointed out that the absence of this document is now impacting our ability to schedule the inter-departmental review meeting, which in turn has consequences for the quarterly reporting cycle to the Permanent Secretary.*
+
+*I would be grateful if you could confirm, at your earliest convenience, the anticipated delivery date, failing which I shall have no alternative but to escalate the matter to the Ministerial Steering Group.*
+
+*With renewed assurances of my highest regard,*
+
+*J. P. Weatherby*  
+*Deputy Director (Operations)*  
+*Tea & Delay Directorate*
+
+---
+
+**MEMORANDUM**  
+**FROM**: Permanent Consultation Division  
+**TO**: Tea & Delay Directorate  
+**SUBJECT**: RE: Delays in publishing the consultation summary  
+**CLASSIFICATION**: Official — For Recipient Only
+
+*"Thank you for your memorandum. I note the concerns you raise and should, for the sake of completeness, draw your attention to the following contextual factors which I believe merit consideration before any conclusions are drawn regarding the performance of this Division.*
+
+*Firstly, the analytical framework referred to in your memorandum was indeed delivered — in draft form — on the 5th, but was returned by your department on the 7th with a request for revisions that fell, strictly speaking, outside the scope of the original terms of reference. Secondly, the resource implications of processing 47,382 submissions — a figure which, I understand, exceeded the initial projections communicated to this Division by approximately 12% — were not accompanied by a corresponding budget adjustment.*
+
+*Thirdly, and perhaps most fundamentally, the suggestion that any single department bears sole responsibility for what is, by its nature, a collaborative undertaking may — with respect — reflect a misunderstanding of the inter-dependent character of the project governance framework.*
+
+*I remain, of course, entirely at your disposal should you wish to discuss this matter further at a suitably convened meeting.*
+
+*Yours sincerely,*
+
+*Dr. H. M. Whitelaw*  
+*Head of Consultation Analysis*  
+*Permanent Consultation Division*
+
+---
+
+### 6.3 The Golden Rules of Blame
+
+1. **Never accept responsibility** — use "it was decided" not "I decided"
+2. **Always pre-flag** — claim you raised concerns "in a memorandum dated [some date before the problem]"
+3. **Use retrospect** — "with the benefit of hindsight, it may have been preferable to..."
+4. **Blame process, not people** — "the governance framework did not adequately provide for..."
+5. **The Final Escape Hatch** — "I think we can all agree that lessons will be learned"
+
+---
+
+## 7. Known Issues
 
 | ID | Issue | Status |
 |:---|:------|:-------|
